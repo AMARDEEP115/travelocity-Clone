@@ -5,7 +5,7 @@
  This is an individual project. Completed in 5 days
  
 # Techstack :
-  REACT JS | Chakra UI
+  REACT JS | Chakra UI 
 
 # Features :
   Login and Signup pages
