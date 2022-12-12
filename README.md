@@ -9,6 +9,7 @@
 
 # Features :
   Login and Signup pages
+  <br/>
   Private pages
 
 # Website Looks Like :
